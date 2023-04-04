@@ -10,3 +10,10 @@ El origen de los ejercicios es la siguiente entrada en forofpga:
 http://www.forofpga.es/viewtopic.php?t=60
 
 El fichero zip con el contenido de los ejercicios añadida la ATLAS.
+
+---
+---
+![TENER UNA ENTRENADORA EN LA PLACA IO BOARD ATLAS CON CYC1000](https://github.com/AtlasFPGA/MODULOS_HARDWARE_MIGUEL_ANGEL_VERILOG/blob/main/IMAGENES_ENTRENADORA_VIRTUAL_VIDEO_DIGITAL/de2-115.jpg)
+---
+---
+![ENTRENADORA VISUAL VIDEO DIGITAL IO BOARD ATLAS CON CYC1000](https://github.com/AtlasFPGA/MODULOS_HARDWARE_MIGUEL_ANGEL_VERILOG/blob/main/IMAGENES_ENTRENADORA_VIRTUAL_VIDEO_DIGITAL/display.jpg)
